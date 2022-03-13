@@ -6,3 +6,5 @@ Css Framework by Radwa, Noura &amp; Nahla
 2. flex
 3. float
 4. direction
+5. margin
+6. padding
