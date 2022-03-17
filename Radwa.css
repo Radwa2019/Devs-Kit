@@ -1,5 +1,65 @@
-.grid-100 {
+/* Css-Grid */
+/* ========= */
+.grid {
  display: grid;
+}
+.grid-col-100 {
  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+}
+.grid-col-200 {
+ grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+.grid-col-300 {
+ grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+.grid-col-400 {
+ grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+}
+.grid-gap-10 {
  grid-gap: 10px;
 }
+.grid-gap-20 {
+ grid-gap: 20px;
+}
+.grid-gap-30 {
+ grid-gap: 30px;
+}
+/* Grid System */
+/* ========== */
+.container {
+ padding-left: 15px;
+ padding-right: 15px;
+ margin-left: auto;
+ margin-right: auto;
+}
+@media (max-width: 574px) {
+ .container {
+  width: 100%;
+ }
+}
+@media (min-width: 575px) {
+ .container {
+  width: 540px;
+ }
+}
+@media (min-width: 768px) {
+ .container {
+  width: 750px;
+ }
+}
+@media (min-width: 992px) {
+ .container {
+  width: 950px;
+ }
+}
+@media (min-width: 1200px) {
+ .container {
+  width: 1150px;
+ }
+}
+@media (min-width: 1400px) {
+ .container {
+  width: 1350px;
+ }
+}
+
