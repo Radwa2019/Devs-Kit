@@ -20,3 +20,5 @@ Css Framework by Radwa, Noura & Nahla
 16. bgimg
 17. letter_spacing
 18. word_spacing
+19. gradient
+20. rotation
