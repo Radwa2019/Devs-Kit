@@ -22,3 +22,4 @@ Css Framework by Radwa, Noura & Nahla
 18. word_spacing
 19. gradient
 20. rotation
+21. position

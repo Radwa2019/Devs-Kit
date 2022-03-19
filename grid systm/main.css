@@ -1,0 +1,24 @@
+.d-grid {
+  display: grid;
+}
+.j-content-center {
+  justify-content: center;
+}
+.j-content-sb {
+  justify-content: space-between;
+}
+.j-content-sa {
+  justify-content: space-around;
+}
+.j-content-se {
+  justify-content: space-evenly;
+}
+.a-items-center {
+  align-items: center;
+}
+.gap-15 {
+  gap: 15px;
+}
+.gap-30 {
+  gap: 30px;
+}
