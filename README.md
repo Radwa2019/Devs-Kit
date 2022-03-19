@@ -1,7 +1,7 @@
-# Team-1-Framework
+# Devs-Kit
 Css Framework by Radwa, Noura & Nahla
 
-## CSS Properties for Framework
+## CSS Modules for Framework
 1. grid system
 2. flex
 3. float
