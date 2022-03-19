@@ -23,3 +23,16 @@ Css Framework by Radwa, Noura & Nahla
 19. gradient
 20. rotation
 21. position
+
+d-grid {
+display: grid;
+ grid-col-200
+ grid-gap: 10px;
+ d-flex:
+ flex-wrap: 
+ flex-dir
+ just-cont-c
+ alig-item-c
+ justfiy-center-c
+ ali
+ 
