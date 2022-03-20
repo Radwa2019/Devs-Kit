@@ -2,24 +2,26 @@
 Css Framework by Radwa, Noura & Nahla
 
 ## CSS Modules for Framework
-1. grid system
-2. direction
-3. margin
-4. padding
-5. position
-6. font
-7. text-align:center
-8. border
-9. main_color
-10. bgcolor 
-11. bgimg
-12. img_size
-13. display: none, hidden, visible 
-14. main_shadow (box_shadow) 
-15. letter_spacing
-16. word_spacing
-17. gradient
-18. rotation
+- 1. grid system -
+  - flex
+  - grid
+3. direction
+4. margin
+5. padding
+6. position
+7. font
+8. text-align:center
+9. border
+10. main_color
+11. bgcolor 
+12. bgimg
+13. img_size
+14. display: none, hidden, visible 
+15. main_shadow (box_shadow) 
+16. letter_spacing
+17. word_spacing
+18. gradient
+19. rotation
 
 
 d-grid {
