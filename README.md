@@ -5,51 +5,51 @@ Css Framework by Radwa, Noura & Nahla
 **1. Grid system**
   - Flex
   - Grid
-2. **display**
+**2. display**
   - Block
   - inline
   - none
   - flex
   - grid
-3. **Margin**
+**3. Margin**
   - All Sides
   - Top, Bottom
   - Left, Right
   - Single Side
-4. **Padding**
+**4. Padding**
   - All Sides
   - Top, Bottom
   - Left, Right
   - Single Side
-5. **position**
+**5. position**
   - Relative
   - Absolute
   - Fixed
   - Sticky
-6. **Font**
+**6. Font**
   - Size 
   - Weight
   - Family
   - Color
-7. **Text Spacing**
+**7. Text Spacing**
   - Line Height
   - Word Spacing
   - Letter Spacing
-8. **Text Position**
+**8. Text Position**
   - Text-align
   - Direction
-9. **Border**
+**9. Border**
   - All Sides
   - Single Side
   - Border radius
-10. **Colors (Variables)**
+**10. Colors (Variables)**
   - main-color
   - second-color
   - bg-color
   - font-color
   - Gradient
 
-## Classes Nomination Examples
+### Classes Nomination Examples
  d-grid
  
  grid-col-200
