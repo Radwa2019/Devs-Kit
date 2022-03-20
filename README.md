@@ -2,7 +2,7 @@
 Css Framework by Radwa, Noura & Nahla
 
 ## CSS Modules for Framework
-- 1. grid system -
+ 1. ** grid system **
   - flex
   - grid
 3. direction
