@@ -6,48 +6,48 @@ Css Framework by Radwa, Noura & Nahla
   - Flex
   - Grid
 2. **display**
-   - Block
-   - inline
-   - none
-   - flex
-   - grid
+  - Block
+  - inline
+  - none
+  - flex
+  - grid
 3. **Margin**
-   - All Sides
-   - Top, Bottom
-   - Left, Right
-   - Single Side
+  - All Sides
+  - Top, Bottom
+  - Left, Right
+  - Single Side
 4. **Padding**
-   - All Sides
-   - Top, Bottom
-   - Left, Right
-   - Single Side
+  - All Sides
+  - Top, Bottom
+  - Left, Right
+  - Single Side
 5. **position**
-   - Relative
-   - Absolute
-   - Fixed
-   - Sticky
+  - Relative
+  - Absolute
+  - Fixed
+  - Sticky
 6. **Font**
-   - Size 
-   - Weight
-   - Family
-   - Color
+  - Size 
+  - Weight
+  - Family
+  - Color
 7. **Text Spacing**
-   - Line Height
-   - Word Spacing
-   - Letter Spacing
-8. **Text Position
-   - Text-align
-   - Direction
+  - Line Height
+  - Word Spacing
+  - Letter Spacing
+8. **Text Position**
+  - Text-align
+  - Direction
 9. **Border**
-   - All Sides
-   - Single Side
-   - Border radius
+  - All Sides
+  - Single Side
+  - Border radius
 10. **Colors (Variables)**
-   - main-color
-   - second-color
-   - bg-color
-   - font-color
-   - Gradient
+  - main-color
+  - second-color
+  - bg-color
+  - font-color
+  - Gradient
 
 ## Classes Nomination Examples
  d-grid
