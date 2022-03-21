@@ -59,7 +59,7 @@ Css Framework by Radwa, Noura & Nahla
   - font-color
   - Gradient
 
-### Classes Nomination Examples
+ ### Classes Nomination Examples
  d-grid
  
  grid-col-200
@@ -75,5 +75,3 @@ Css Framework by Radwa, Noura & Nahla
  just-cont-c
  
  alig-item-c
- 
- 
