@@ -5,7 +5,6 @@ Css Framework by Radwa, Noura & Nahla
 **1. Grid system**
   - Flex
   - Grid
-
 **2. Display**
   - Block
   - inline
