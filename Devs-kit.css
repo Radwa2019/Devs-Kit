@@ -3,7 +3,6 @@
   --f-family: sans-serif;
  --main-color: #1b1b1b;
  --second-color: #8a8a8a;
-  
  }
  
  /* Start Grid System */
@@ -32,6 +31,15 @@
  .flex-gap-15 {
  gap: 15px;
  }
+.flex-100 {
+flex: 1 1 100px;
+}
+.flex-200 {
+flex: 1 1 200px;
+}
+.flex-400 {
+flex: 1 1 400px;
+}
  .just-cont-c {
    justify-content: center;
  }
