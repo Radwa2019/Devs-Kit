@@ -5,6 +5,7 @@
   --light-color: #8b8b8b;
   --second-color: #eee;
   --accent-color: #03a9f4;
+  --white-color: #fff;
  }
  
  /* Start Grid System */
@@ -437,6 +438,10 @@ flex: 1 1 400px;
 .bg-color-accent {
   background-color: var(--accent-color);
 }
+.bg-color-white {
+background-color: var(--white-color);
+}
+.b
 .t-align {
   text-align: center;
 }
