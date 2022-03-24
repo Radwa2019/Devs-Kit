@@ -1,8 +1,10 @@
 /* CSS variales */
 :root {
   --f-family: sans-serif;
- --main-color: #1b1b1b;
- --second-color: #8a8a8a;
+  --main-color: #1b1b1b;
+  --light-color: #8b8b8b;
+  --second-color: #eee;
+  --accent-color: #03a9f4;
  }
  
  /* Start Grid System */
@@ -10,6 +12,9 @@
  .d-flex {
    display: flex;
  }
+ .width-50{
+  width: 50%;
+}
  .flex-wrap {
    flex-wrap: wrap;
  }
@@ -420,9 +425,24 @@ flex: 1 1 400px;
  .f-family {
   font-family: var(--f-family);
  }
- .f-color {
+ .f-color-dark {
   color: var(--main-color);
  }
+ .f-color-light {
+  color: var(--light-color);
+ }
+ .bg-color {
+  background-color: var(--second-color);
+}
+.bg-color-accent {
+  background-color: var(--accent-color);
+}
+.t-align {
+  text-align: center;
+}
+ .line-hgt {
+  line-height: 1.5;
+}
  /* Start Position */
  .p-abs {
    position: absolute;
@@ -479,3 +499,21 @@ flex: 1 1 400px;
    z-index: -1;
  }
  /* End Position */
+ .a {
+  text-decoration: none;
+}
+.ul {
+  list-style: none;
+}
+.img-size-100 {
+  width: 100px;
+  height: 100px;
+}
+.img-size-150 {
+  width: 150px;
+  height: 150px;
+}
+.img-fit {
+  max-width: 100%;
+  max-height: 100%;
+}
