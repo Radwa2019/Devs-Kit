@@ -461,6 +461,9 @@ flex: 1 1 400px;
 .bg-color-white {
 background-color: var(--white-color);
 }
+.bg-color-black{
+background-color: var(--main-color);
+}
 .b
 .t-align {
   text-align: center;
