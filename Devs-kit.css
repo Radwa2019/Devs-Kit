@@ -432,6 +432,9 @@ flex: 1 1 400px;
  .f-color-light {
   color: var(--light-color);
  }
+ .f-color-white {
+  color: var(--white-color);
+ }
  .bg-color {
   background-color: var(--second-color);
 }
