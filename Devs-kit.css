@@ -7,6 +7,14 @@
   --accent-color: #03a9f4;
   --white-color: #fff;
  }
+ * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+ body {
+   font-family: var(--f-family);
+ }
  
  /* Start Grid System */
  /* ========= */
@@ -54,6 +62,15 @@ flex: 1 1 400px;
  }
  .just-cont-sb {
    justify-content: space-between;
+ }
+ .just-cont-sa {
+   justify-content: space-around;
+ }
+ .just-cont-fs {
+   justify-content: flex-start;
+ }
+ .just-cont-fe{
+   justify-content: flex-end;
  }
  .d-grid {
    display: grid;
@@ -512,6 +529,10 @@ background-color: var(--white-color);
 }
 .ul {
   list-style: none;
+}
+.img-size-60 {
+  width: 60px;
+  height: 60px;
 }
 .img-size-100 {
   width: 100px;
